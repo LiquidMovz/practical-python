@@ -5,7 +5,7 @@
 
 
 # Open the file and read all lines
-with open('Data/portfolio.csv', 'rt') as file:
+with open('C:/111/GitHub/practical-python/Work/Data/portfolio.csv', 'rt') as file:
     lines = file.readlines()
 
 # Initialize a variable to hold the total cost
